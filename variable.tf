@@ -3,7 +3,7 @@
 //////////////// Load Balancer Configuration ///////
 variable "namespacempo" {
   type    = string
-  default = "terrafrom12-mpotech"
+  default = "terrafrom12"
 }
 
 // lb name and waf,malicious user, client-tls, pool name starts with lb-name only
