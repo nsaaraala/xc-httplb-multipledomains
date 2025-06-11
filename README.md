@@ -69,13 +69,12 @@ Set WAF policy names
 
 Configure any other relevant values
 
-4. Run the Terraform Script
-bash
-Copy
-Edit
+### 4. Run the Terraform Script
+
 terraform init
 terraform plan
 terraform apply
+
 This will trigger the onboarding process.
 
 🔐 Security Note
